@@ -240,7 +240,7 @@ Let's bring in our dataset.
 
 
 
-From the ``1ifelines`` library, we'll need the
+From the ``lifelines`` library, we'll need the
 ``KaplanMeierFitter`` for this exercise:
 
 .. code:: python
